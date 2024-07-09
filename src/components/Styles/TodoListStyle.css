@@ -1,0 +1,28 @@
+.btn-task{
+    width: 70%;
+    background-color: rgb(140, 198, 107);
+}
+.col{
+    display: flex;
+    justify-content: space-evenly;
+}
+body{
+    background-color: rgb(236, 248, 240);
+}
+.header{
+    /* border: 2px solid black; */
+    margin: 30px;
+    padding: 30px;
+}
+#heading{
+    color: rgb(140, 198, 107);;
+}
+#dropdown-design{
+    width: 15%;
+}
+.task-Container{
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+}
+
